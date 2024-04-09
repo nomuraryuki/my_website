@@ -1,0 +1,120 @@
+.top{
+    background-image: url(bg_Argyle.jpg);
+    margin: auto;
+}
+
+.enjou{
+    display: flex;
+}
+
+.en:hover {
+    opacity: 0.8;
+}
+
+.profile{
+    display:contents;
+}
+
+.secret{
+    background-color: black;
+}
+.secret h1{
+    color: white;
+}
+
+nav{
+    border: 2px solid black;
+    max-width: max-content;
+    padding-right: 10px;
+    
+}
+
+.fish{
+    width: 300px;
+    height: 200px;
+}
+
+.body_hobby{
+    background-image: url(bg_Argyle.jpg);
+}
+
+.hobby{
+    background-color: azure;
+    width: 100%;
+    margin: auto;
+    /* display: block;  */
+    max-width: max-content;
+    border: 2px solid black;
+    text-align: center;
+    padding: 100px;
+}
+
+.h1_hobby{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.page_hobby{
+    margin: 0 auto;
+}
+
+.ol_hobby{
+    display: flex;
+align-items: center;
+flex-direction: column   
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-top: 2px solid black ; 
+    background-color: white;
+}
+
+.school_body{
+    background-image: url(school.jpg);
+    background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
+    background-position:center center;                     /* 画像の表示位置を指定  */
+    background-size:cover;                               /* 画像のサイズを指定    */
+    width:100%;                                            /* 横幅のサイズを指定    */
+    height:100%;                                          /* 縦幅のサイズを指定    */
+}
+
+.school{
+    background-color: white;
+    /* width: 100%;
+    margin: auto; */
+    /* display: block;  */
+    max-width: max-content;
+    border: 2px solid black;
+    /* text-align: center; */
+    padding: 50px;
+}
+
+.school_h1{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.poly{
+    border-top: 5px  dotted red;
+    margin-top: 10px;
+}
+
+.career{
+    border-top: 5px  dotted red;
+    margin-top: 10px;
+}
+
+.info{
+    border-top: 5px  dotted red;
+    margin-top: 10px;
+}
+
+table{
+    border-color: blue;
+    padding: 0px;
+    border-spacing: 0px;
+}
